@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1578432380 source:c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\dtp.cpp
+	"dtp.h"
+
+1578432382 c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\dtp.h
+	"libs.h"
+
+1580180216 c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\libs.h
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<dos.h>
+	<omp.h>
+	<vector>
+	<fstream>
+
+1580185070 source:c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\arrays.cpp
+	"arrays.h"
+
+1580184810 c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\arrays.h
+	"libs.h"
+	"dtp.h"
+
+1580185296 source:c:\users\usuario\onedrive - universidad técnica particular de loja - utpl\carpeta personal sistemas\9no ciclo\computación paralela\ordenamiento\main.cpp
+	"arrays.h"
+	"dtp.h"
+	"arrays.h"
+	"dtp.h"
+
